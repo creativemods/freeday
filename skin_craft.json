@@ -409,7 +409,7 @@
       "addB_url":"https://creativemods.github.io/boboi/addon/Laserguns-B.mcpack",
       "addR_url":"https://creativemods.github.io/boboi/addon/Laserguns-R.mcpack",
       "view_add":"https://creativemods.github.io/boboi/addon/laserguns.png",
-      "des_add":"https://creativemods.github.io/boboi/addon.html"
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
     },
     {
       "id":2,
@@ -418,7 +418,7 @@
       "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-B.mcpack",
       "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks-R.mcpack",
       "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/blocks.png",
-      "des_add":"https://creativemods.github.io/boboi/addon.html"
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
     },
     {
       "id":3,
@@ -427,7 +427,7 @@
       "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-B.mcpack",
       "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Imposter-R.mcpack",
       "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/theimposter.png",
-      "des_add":"https://creativemods.github.io/boboi/addon.html"
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
     },
     {
       "id":4,
@@ -436,7 +436,7 @@
       "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-B.mcpack",
       "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/Uncraftingtable-R.mcpack",
       "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/uncraftingtable.png",
-      "des_add":"https://creativemods.github.io/boboi/addon.html"
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
     },
     {
       "id":5,
@@ -445,7 +445,7 @@
       "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-B.mcpack",
       "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture-R.mcpack",
       "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/furniture.png",
-      "des_add":"https://creativemods.github.io/boboi/addon.html"
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
     },
     {
       "id":6,
@@ -454,7 +454,7 @@
       "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-B.mcpack",
       "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns-R.mcpack",
       "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/guns.png",
-      "des_add":"https://creativemods.github.io/boboi/addon.html"
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
     },
     {
       "id":7,
@@ -463,7 +463,7 @@
       "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-B.mcpack",
       "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite-R.mcpack",
       "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/dynamite.png",
-      "des_add":"https://creativemods.github.io/boboi/addon.html"
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
     },
     {
       "id":8,
@@ -472,7 +472,7 @@
       "addB_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunB.mcpack",
       "addR_url":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/ActualGunR.mcpack",
       "view_add":"https://ia801406.us.archive.org/35/items/actual-gun_202010/addon/actualguns.png",
-      "des_add":"https://creativemods.github.io/boboi/addon.html"
+      "des_add":"https://creativemods.github.io/freeday/addon.html"
     }
   ],
   "Maps":
@@ -482,56 +482,56 @@
       "nama_map":"Bedrock Auto Chicken",
       "map_url":"https://archive.org/download/amonguscraft_202010/map/Bedrock.zip",
       "view_map":"https://archive.org/download/amonguscraft_202010/map/bedrock.png",
-	    "des_map":"https://creativemods.github.io/boboi/map.html"
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
     },
     {
       "id":2,
       "nama_map":"Among Us Map",
       "map_url":"https://archive.org/download/amonguscraft_202010/map/Among-us-Map.zip",
       "view_map":"https://ia801509.us.archive.org/27/items/amonguscraft_202010/map/Among-us-Map.png",
-	    "des_map":"https://creativemods.github.io/boboi/map.html"
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
     },
     {
       "id":3,
       "nama_map":"Among Us Craft",
       "map_url":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.zip",
       "view_map":"https://archive.org/download/amonguscraft_202010/map/amonguscraft.png",
-	    "des_map":"https://creativemods.github.io/boboi/map.html"
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
     },
     {
       "id":4,
       "nama_map":"Cubical's Tower",
       "map_url":"https://archive.org/download/amonguscraft_202010/map/Cubicalstower.zip",
       "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
-	    "des_map":"https://creativemods.github.io/boboi/map.html"
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
     },
     {
       "id":5,
       "nama_map":"Among Craft",
       "map_url":"https://archive.org/download/amonguscraft_202010/map/amongcraft.zip",
       "view_map":"https://archive.org/download/amonguscraft_202010/map/amongcraft.png",
-	    "des_map":"https://creativemods.github.io/boboi/map.html"
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
     },
     {
       "id":6,
       "nama_map":"Achievement World",
       "map_url":"https://archive.org/download/amonguscraft_202010/map/achievementworld.zip",
       "view_map":"https://archive.org/download/amonguscraft_202010/map/achievementworld.png",
-	    "des_map":"https://creativemods.github.io/boboi/map.html"
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
     },
     {
       "id":7,
       "nama_map":"HardCoreLine",
       "map_url":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.zip",
       "view_map":"https://archive.org/download/amonguscraft_202010/map/hardcoreline.png",
-	    "des_map":"https://creativemods.github.io/boboi/map.html"
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
     },
     {
       "id":8,
       "nama_map":"Hello Neighbor",
       "map_url":"https://archive.org/download/amonguscraft_202010/map/hello-neighbour.zip",
       "view_map":"https://archive.org/download/amonguscraft_202010/map/cubicalstower.png",
-	    "des_map":"https://creativemods.github.io/boboi/map.html"
+	    "des_map":"https://creativemods.github.io/freeday/map.html"
     }
   ]
 }
